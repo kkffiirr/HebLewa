@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="set_priority_dialog_options">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>השב לכולם</item>
+        <item>Reply all</item>
+        <item>Forward</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>"You don't have Wi-Fi connectivity, whether to continue the synchronisation?"</item>
+        <item>לא ניתן להיכנס</item>
+        <item>Security error.</item>
+        <item>"Couldn't sync."</item>
+        <item>Internal error</item>
+        <item>Server error</item>
+        <item>Server error</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>חדש יותר</item>
+        <item>ישן יותר</item>
+        <item>Conversation list</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Show newer conversation after you delete</item>
+        <item>Show older conversation after you delete</item>
+        <item>Show conversation list after you delete</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Show archived only</item>
+        <item>Show deleted only</item>
+        <item>Show archive &amp; delete</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Show archived only</item>
+        <item>Show deleted only</item>
+        <item>Show archive &amp; delete</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Always show message actions at the top of the screen</item>
+        <item>Only show message actions at the top of the screen when rotated to portrait</item>
+        <item>"Don't show message actions outside the message header"</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>הצג תמיד</item>
+        <item>Only show in portrait</item>
+        <item>"Don't show"</item>
+    </string-array>
+</resources>
