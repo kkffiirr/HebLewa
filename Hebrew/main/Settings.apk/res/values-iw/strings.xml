@@ -825,7 +825,6 @@ Wi‑Fi Assistant"</string>
     <string name="device_info_settings">מצב טלפון</string>
     <string name="system_update_settings_list_item_title">עדכוני מערכת</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="firmware_version">‏גרסת Android</string>
     <string name="model_number">מספר דגם</string>
     <string name="fcc_equipment_id">זיהוי ציוד</string>
     <string name="baseband_version">גרסת פס בסיס</string>
