@@ -1,0 +1,24 @@
+<strings>
+    <string name="short_date_format" value="dd/MM EEEE" />
+    <string name="long_date_format" value="dd/MM/yyyy" />
+     <string name="slide_up_camera" value="החלק מעלה למצלמה" />
+  <!--   <string name="slide_down_lock" value="slide down to unlock" /> -->
+       <string name="slide_down_lock" value="החלק מטה לפתיחה" />
+    <string name="slide_down_call" value="החלק מעלה לשיחה" />
+    <string name="slide_down_mess" value="slide down into mess" />
+    <string name="air_quality" value="AQI:" />
+    <string name="chinese_calendar_show" value="0"/>
+    <string name="week_offsetY" value="0"/>
+    <string name="week_offsetX" value="60"/>
+    <string name="week_typeface" value="NeoSans-Light.otf"/>
+    <string name="unreadSMS" value=" הודעה שלא נענתה"/>
+    <string name="missCALL" value=" שיחה שלא נענתה"/>
+    <string name="am" value="AM"/>
+    <string name="pm" value="PM"/>
+	<string name="str_misscall" value="שיחה שלא נענתה"/>
+	<string name="str_unread_sms" value="הודעה"/>
+	<string name="month_day_format" value="dd.MM"/>
+	<string name="tips_right_move" value="החלק ימינה לפרטים"/>
+	<string name="unknow_number" value="לא מזוהה"/>
+	<string name="subzero" value="-"/>
+</strings>
