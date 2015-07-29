@@ -49,7 +49,7 @@
     <string name="callFailed_dsac_restricted_normal">"שיחות רגילה מוגבלות על ידי בקרת גישה."</string>
     <string name="callFailed_unobtainable_number">"מספר לא חוקי"</string>
     <string name="incall_error_missing_voicemail_number">"מספר לא ידוע שירות תא קולי."</string>
-    <string name="to_hint">"ל"</string>
+    <string name="to_hint">הכנס כאן את הנמען</string>
     <string name="copy_email">"העתקה של כתובת הדוא\"ל"</string>
     <string name="copy_number">"העתק מספר טלפון"</string>
     <string name="action_label">"חזור"</string>
@@ -1380,24 +1380,11 @@ Incompleted: %d"</string>
     <string name="activity_title_accout_select">"בחר חשבון"</string>
     <string name="user_profile_cannot_sd_card">"לא ניתן לשתף תוכן עם שיטה זו."</string>
     <string name="file_already_on_sd_card">"הקובץ כבר נמצא בכרטיס SD."</string>
-    <string name="imexport_bridge_sd_card">"כרטיס זיכרון"</string>
-    <string name="label_smart_avatar">"סמל אינטליגנטי"</string>
-    <string name="label_avatar_colorful">"צבעוני"</string>
-    <string name="label_avatar_simple">"פשוט"</string>
-    <string name="title_change_warning">"תזכורת"</string>
-    <string name="dialpad_prompt_title">"רוצה לחפש במהירות את אנשי הקשר?"</string>
-    <string name="dialpad_prompt_text">"כגון: גואו ג'ינג, על פי נתוני 4 ו -5 יכולים להיות."</string>
-    <string name="dialog_choose_storage">"בחר את ציוד האחסון"</string>
-    <string name="turn_on_hotknot">"MoMoDa כבוי. נא להפעיל MoMoDa בהגדרות"</string>
-    <string name="hotknot_toast">"אנא השתמש במסך לגעת במכשיר אחר."</string>
+
     <string name="hotknot">"MoMoDa"</string>
     <string name="inner_version_info">"מידע על גרסה:"</string>
     <string name="external_version">"גרסה חיצונית:"</string>
     <string name="version">"גרסה:"</string>
-    <string name="external_version_fmt">"%s
-"</string>
-    <string formatted="false" name="custom_version_fmt">"%s %s
-"</string>
     <string name="yellowpages_entry_item">"דפי זהב"</string>
     <string name="yellowpages_detail_error_label">"תיקון שגיאות טלפון"</string>
     <string name="yellowpages_detail_error_description">"עזרה הניתנת על ידי טלפון של תמיכת מידע"</string>
