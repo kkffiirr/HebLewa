@@ -661,16 +661,66 @@
     <string name="simContacts_title">"אנשי קשר בכרטיס ה- SIM"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">"אין לך אנשי קשר לתצוגה. (אם רק הוסיף חשבון, זה יכול לקחת כמה דקות כדי לסנכרן את אנשי קשר.)"</string>
     <string name="noContactsHelpTextForCreateShortcut">"אין לך אנשי קשר לתצוגה."</string>
-    <string name="noContactsHelpText">"אין לך אנשי קשר לתצוגה. כדי להוסיף אנשי קשר, מגע \"&lt;b&gt; &lt;fgcolor = גופן\" ffffffff # \"&gt; &lt;/ b&gt; תפריט &lt;/ font&gt;\", ולאחר מכן מגע: חשבונות \"&lt;b&gt; &lt;fgcolor גופן =\" ffffffff # \"&gt; &lt;li&gt;\" כדי להוסיף או להגדיר חשבון עם אנשי קשר שתוכל לסנכרן לטלפון \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\" \"&lt;li&gt; &lt;b&gt; &lt;fgcolor =\" ffffffff # \"font&gt;\" איש קשר חדש כדי ליצור קשר חדש מאפס \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\" \"&lt;b&gt; &lt;fgcolor גופן =\" # ffffffff \"&gt; &lt;li&gt;\" יבוא / יצוא ליבוא אנשי קשר מכרטיס ה- SIM או SD שלך \"&lt; / Li&gt; &lt;/ font&gt; &lt;/ b&gt; \"
+    <string name="noContactsHelpText">"You don't have any contacts to display.
+
+To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
+"</li></font></b>"
 "</string>
-    <string name="noContactsHelpTextWithSync">"אין לך אנשי קשר לתצוגה. (אם אתה רק הוסיף חשבון, זה יכול לקחת כמה דקות כדי לסנכרן את אנשי קשר.) כדי להוסיף אנשי קשר, מגע \"&lt;b&gt; &lt;fgcolor גופן =\" ffffffff # \"&gt; תפריט &lt;/ font&gt; &lt;/ b&gt;\", ולאחר מכן גע : \"&lt;B&gt; &lt;fgcolor גופן =\" ffffffff # \"&gt; &lt;li&gt;\" חשבונות כדי להוסיף או להגדיר חשבון עם אנשי קשר שתוכל לסנכרן לטלפון \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\" \"&lt; b&gt; &lt;fgcolor גופן = \"ffffffff #\"&gt; &lt;li&gt; \"אפשרויות תצוגה ללשנות את אנשי קשר גלויים\" &lt;/ li \"fgcolor = &lt;&gt; &lt;b גופן\" # ffffffff&gt; &lt;/ b&gt; \"&lt;/ font&gt;\"&gt; &lt;Li&gt; \"איש קשר חדש כדי ליצור איש קשר חדש מאפס\" אנשי קשר &lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt; \"\" &lt;li&gt; \"&lt;b&gt; &lt;fgcolor = גופן\" ffffffff #&gt; \"יבוא / יצוא ליבוא מכרטיס ה- SIM שלך או SD \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\"
+    <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+
+To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
+"</li></font></b>"
 "</string>
-    <string name="noContactsNoSimHelpText">"אין לך אנשי קשר לתצוגה. כדי להוסיף אנשי קשר, מגע \"&lt;b&gt; &lt;fgcolor = גופן\" ffffffff # \"&gt; &lt;/ b&gt; תפריט &lt;/ font&gt;\", ולאחר מכן מגע: חשבונות \"&lt;b&gt; &lt;fgcolor גופן =\" ffffffff # \"&gt; &lt;li&gt;\" כדי להוסיף או להגדיר חשבון עם אנשי קשר שתוכל לסנכרן לטלפון \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\" \"&lt;li&gt; &lt;b&gt; &lt;fgcolor =\" ffffffff # \"font&gt;\" איש קשר חדש כדי ליצור קשר חדש מאפס \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\" \"&lt;b&gt; &lt;fgcolor גופן =\" # ffffffff \"&gt; &lt;/ li &lt;li&gt;\" יבוא / יצוא ליבוא אנשי קשר מכרטיס ה- SD שלך \" &gt; &lt;/ Font&gt; &lt;/ b&gt; \"
+    <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
+
+To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"</li></font></b>"
 "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"אין לך אנשי קשר לתצוגה. (אם אתה רק הוסיף חשבון, זה יכול לקחת כמה דקות כדי לסנכרן את אנשי קשר.) כדי להוסיף אנשי קשר, מגע \"&lt;b&gt; &lt;fgcolor גופן =\" ffffffff # \"&gt; תפריט &lt;/ font&gt; &lt;/ b&gt;\", ולאחר מכן גע : \"&lt;B&gt; &lt;fgcolor גופן =\" ffffffff # \"&gt; &lt;li&gt;\" חשבונות כדי להוסיף או להגדיר חשבון עם אנשי קשר שתוכל לסנכרן לטלפון \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\" \"&lt; b&gt; &lt;fgcolor גופן = \"ffffffff #\"&gt; &lt;li&gt; \"אפשרויות תצוגה ללשנות את אנשי קשר גלויים\" &lt;/ li \"fgcolor = &lt;&gt; &lt;b גופן\" # ffffffff&gt; &lt;/ b&gt; \"&lt;/ font&gt;\"&gt; &lt;Li&gt; \"איש קשר חדש כדי ליצור איש קשר חדש מאפס\" אנשי קשר &lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt; \"\" &lt;li&gt; \"&lt;b&gt; &lt;fgcolor = גופן\" ffffffff #&gt; \"יבוא / יצוא ליבוא מכרטיס SD שלך \"&lt;/ li&gt; &lt;/ font&gt; &lt;/ b&gt;\"
+    <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+
+To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"</li></font></b>"
 "</string>
-    <string name="noFavoritesHelpText">"אין לך כל מועדפים. כדי להוסיף איש קשר לרשימת מועדפים שלך: \"&lt;li&gt; גע &lt;b&gt; מגעים &lt;/ b&gt;\" &lt;li&gt; כרטיסייה \"&lt;/ li&gt;\" \"\" גע באיש הקשר שברצונך להוסיף למועדפים שלך \"&lt;/ li&gt; \"\" &lt;li&gt; \"גע בכוכב שליד שמו של איש הקשר\" &lt;/ li&gt; \"
+    <string name="noFavoritesHelpText">"You don't have any favorites.
+
+To add a contact to your list of favorites:
+
+"<li>Touch the <b>Contacts</b>" tab
+"</li>" 
+"<li>"Touch the contact you want to add to your favorites
+"</li>" 
+"<li>"Touch the star next to the contact's name
+"</li>"
 "</string>
+
     <string name="dialer_useDtmfDialpad">"השתמש בלוח מקשי חיוג צלילי"</string>
     <string name="dialer_returnToInCallScreen">"חזור לשיחה שבהתקדמות"</string>
     <string name="dialer_addAnotherCall">"הוסף שיחה"</string>
@@ -744,7 +794,7 @@
     <string name="confirm_export_message">"רשימת אנשי הקשר שלך תיוצא %s"</string>
     <string name="exporting_contact_failed_title">"לא יכולתי לייצא"</string>
     <string name="exporting_contact_failed_message">"איש הקשר לא יוצא.
-Reason: \"%s\""</string>
+מהסיבה: \"%s\""</string>
     <string name="fail_reason_no_exportable_contact">"אין קשר ליצוא."</string>
     <string name="fail_reason_too_many_vcard">"קובצי vCard רבים מדי נמצאים באחסון."</string>
     <string name="fail_reason_too_long_filename">"שם קובץ דרוש ארוך מדי %s"</string>
@@ -1058,14 +1108,14 @@ Reason: \"%s\""</string>
     <string name="t9_dial_click_title">"חיוג קשר הנבחר"</string>
     <string name="t9_dial_click_summary">"חיוג לאיש הקשר שנבחר T9"</string>
     <string name="t9_add_to_contacts">"הוסף לאנשי קשר"</string>
-    <string name="t9_map_row_2">"2abcàáâäåɑæçǽćčá"</string>
-    <string name="t9_map_row_3">"3deféèêë"</string>
-    <string name="t9_map_row_4">"4ghiíìïîǵ"</string>
-    <string name="t9_map_row_5">"5jklḱḱĺ"</string>
-    <string name="t9_map_row_6">"6mnoòóöôøñŋǿḿńő"</string>
-    <string name="t9_map_row_7">"7pqrsßɾṕŕśřš"</string>
-    <string name="t9_map_row_8">"8tuvúùüûű"</string>
-    <string name="t9_map_row_9">"9wxyzýẃź"</string>
+    <string name="t9_map_row_2">"דהו2abcàáâäåɑæçǽćčá"</string>
+    <string name="t9_map_row_3">"אבג3deféèêë"</string>
+    <string name="t9_map_row_4">"מנ4ghiíìïîǵ"</string>
+    <string name="t9_map_row_5">"יכל5jklḱḱĺ"</string>
+    <string name="t9_map_row_6">"זחט6mnoòóöôøñŋǿḿńő"</string>
+    <string name="t9_map_row_7">"רשת7pqrsßɾṕŕśřš"</string>
+    <string name="t9_map_row_8">"צק8tuvúùüûű"</string>
+    <string name="t9_map_row_9">"סעפ9wxyzýẃź"</string>
     <string name="prompt_contact_myself">"אני"</string>
     <string name="menu_new">"חדש"</string>
     <string name="prompt_no_contacts_pepole">"אין לך אנשי קשר"</string>
