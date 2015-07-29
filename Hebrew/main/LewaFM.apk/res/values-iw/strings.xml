@@ -226,10 +226,10 @@
     <string name="delete_station_confirm">"אישור מחיקת תחנה?"</string>
     <string name="empty_text">"לחץ מתחת לכפתור כדי לחפש תחנה"</string>
     <string name="accurate_change_frequency_title">"תדירות שינוי מדויקת"</string>
-    <string name="accurate_change_frequency_hint">"הזן תדר כדי להקשיב (MHz)"</string>
-    <string name="input_frequency_error">"שגיאת קלט, אנא מספר קלט של 87.5 ~ 108.0"</string>
-    <string name="insert_headset_prompt">"זו קליטה חלשה, חיבור באוזניות שלך יכול לשפר את האות"</string>
-    <string name="no_radio_searched">"אין חיפוש רדיו"</string>
+    <string name="accurate_change_frequency_hint">"הזן תדר (MHz)"</string>
+    <string name="input_frequency_error">"שגיאת קלט, אנא מספר הזן תדר בתחום 87.5 ~ 108.0"</string>
+    <string name="insert_headset_prompt">"קליטה חלשה, חבר אוזניות כדי לשפר אותה."</string>
+    <string name="no_radio_searched">"לא הוגדרו תחנות"</string>
     <string name="menu_multichoice_select_all">"בחר הכל"</string>
     <string name="menu_multichoice_clear_select">"בטל את הכל"</string>
     <string name="operation_rename">"שינוי שם"</string>
@@ -242,12 +242,12 @@
     <string name="prompt">"על מנת להימנע מפגיעה בעור התוף, מומלץ שלא לשים על ווליום גבוה מדי"</string>
     <string name="default_station_name">"ערוץ חדש"</string>
     <string name="dlg_noantenna_text">"אתה צריך אוזניות כאנטנה. אנא חבר את האוזניות שלך."</string>
-    <string name="dlg_noantenna_title">"חבר באוזניות"</string>
+    <string name="dlg_noantenna_title">"חבר אוזניות"</string>
     <string name="btn_yes">"כן"</string>
     <string name="btn_no">"לא"</string>
     <string name="dlg_progress_text">"ערוצי חיפוש ..."</string>
     <string name="dlg_progress_title">"חיפוש"</string>
     <string name="btn_cancel">"ביטול"</string>
-    <string name="search_no_station">"אין חיפוש רדיו"</string>
+    <string name="search_no_station">"לא נמצאו תחנות"</string>
     <string name="know">"אני יודע"</string>
 </resources>
