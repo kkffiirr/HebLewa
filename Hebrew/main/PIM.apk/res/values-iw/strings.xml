@@ -96,7 +96,6 @@
     <string name="add_slide">"הוסף שקופית"</string>
     <string name="add_slide_hint">"גע כדי ליצור שקופית חדשה."</string>
     <string name="discard_slideshow">"בטל מצגת "</string>
-    <string name="slide_show_part">"%1$s / %2$s"</string>
     <string name="remove_text">"הסר טקסט"</string>
     <string name="add_picture">"הוסף תמונה"</string>
     <string name="remove_picture">"הסר את התמונה"</string>
@@ -919,7 +918,6 @@ Reason: \"%s\""</string>
     <string name="aggregation_suggestion_edit_dialog_message">"עבור לעריכת איש הקשר שנבחר? מידע שהזנת עד כה יועתק."</string>
     <string name="menu_copyContact">"העתק לאנשי הקשר שלי"</string>
     <string name="add_to_my_contacts">"הוסף לאנשי הקשר שלי"</string>
-    <string name="contact_directory_description">"%1$s"</string>
     <string name="directory_search_label">"תיקיה"</string>
     <string name="local_search_label">"כל אנשי הקשר"</string>
     <string name="toast_making_personal_copy">"יצירת עותק אישי ..."</string>
@@ -936,13 +934,11 @@ Reason: \"%s\""</string>
     <string name="menu_settings">"הגדרות"</string>
     <string name="menu_help">"עזרה"</string>
     <string name="preference_displayOptions">"אפשרויות תצוגה"</string>
-    <string name="organization_company_and_title">"%2$s %1$s"</string>
     <string name="hint_findContacts">"מצא אנשי קשר"</string>
     <string name="non_phone_caption">"מספר טלפון"</string>
     <string name="non_phone_add_to_contacts">"הוסף לאנשי קשר"</string>
     <string name="activity_title_confirm_add_detail">"הוסף לאיש קשר"</string>
     <string name="non_phone_close">"סגור"</string>
-    <string name="widget_name_and_phonetic">"%1$s %2$s"</string>
     <string name="date_year_toggle">"ספק לשנה"</string>
     <string name="social_widget_label">"איש קשר"</string>
     <string name="social_widget_loading">"טוען..."</string>
@@ -958,12 +954,10 @@ Reason: \"%s\""</string>
     <string name="clear_default">"נקה ברירת מחדל"</string>
     <string name="toast_text_copied">"טקסט שהועתק"</string>
     <string name="cancel_confirmation_dialog_message">"למחוק את השינויים?"</string>
-    <string name="call_type_and_date">"%1$s %2$s"</string>
     <string name="profile_display_name">"הגדר את הפרופיל שלי"</string>
     <string name="enter_contact_name">"שמו של סוג האדם"</string>
     <string name="view_updates_from_group">"צפה בעדכונים"</string>
     <string name="notification_action_voicemail_play">"נגן"</string>
-    <string name="notification_voicemail_callers_list">"%1$s %2$s"</string>
     <string name="notification_new_voicemail_ticker">"תא קולי חדש %1$s"</string>
     <string name="voicemail_playback_error">"לא ניתן להפעיל דואר קולי."</string>
     <string name="voicemail_buffering">"טוען"</string>
@@ -1003,7 +997,6 @@ Reason: \"%s\""</string>
     <string name="description_call_log_voicemail">"שירות תא קולי"</string>
     <string name="description_add_contact">"הוסף איש קשר"</string>
     <string name="description_view_contact">"צפה %1$s"</string>
-    <string name="description_call">"%1$s"</string>
     <string name="description_send_text_message">"שלח הודעת טקסט %1$s"</string>
     <string name="description_call_log_unheard_voicemail">"תא קולי לא נשמע"</string>
     <string name="description_send_message">"שלח הודעה %1$s"</string>
