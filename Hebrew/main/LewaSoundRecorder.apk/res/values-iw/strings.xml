@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">"טייפ מנהלים"</string>
+    <string name="record_your_message">"הקלט את הודעתך"</string>
+    <string name="message_recorded">"הודעה מוקלטת"</string>
+    <string name="review_message">"הודעת סקירה"</string>
+    <string name="recording">"הקלטה"</string>
+    <string name="recording_stopped">"הקלטה הופסקה"</string>
+    <string name="storage_is_full">"אחסון מלא"</string>
+    <string name="max_length_reached">"הגעת לאורך המרבי "</string>
+    <string name="insert_sd_card">"טען אחסון USB "</string>
+    <string name="min_available">"%d דקות זמינות"</string>
+    <string name="sec_available">"%d של זמין"</string>
+    <string name="accept">"בוצע"</string>
+    <string name="discard">"בטל"</string>
+    <string name="button_ok">"אישור"</string>
+    <string formatted="false" name="timer_format">"% 02d:% 02d"</string>
+    <string name="press_record">"לחץ: 0-MIC 1-Rx שיא 2-Tx + 3 Rx-AMR 4-EVRC 5-QCELP 6-AAC_MP4 9-AMR-WB-AMR-WB-3GPP ולחץ להקליט"</string>
+    <string name="press_record2">"לחץ להקליט"</string>
+    <string name="press_record_ssr">"לחץ: 0-MIC 1-Rx שיא 2-Tx + 3 Rx-AMR 4-EVRC 5-QCELP 6-AAC_MP4 7-AAC_SSR 8-LPCM_SSR 9-AMR-WB-AMR-WB-3GPP ולחץ להקליט"</string>
+    <string name="audio_db_title_format">"YYYY-MM-DD HH: mm: ss"</string>
+    <string name="audio_db_artist_name">"ההקלטות שלך"</string>
+    <string name="audio_db_album_name">"קלטות אודיו"</string>
+    <string name="audio_db_playlist_name">"ההקלטות שלי"</string>
+    <string name="error_sdcard_access">"לא ניתן לגשת לאחסון USB."</string>
+    <string name="error_app_internal">"שגיאת יישום פנימית"</string>
+    <string name="error_app_unsupported">"פורמט שאינו נתמך"</string>
+    <string name="error_mediadb_new_record">"לא ניתן לשמור את ההקלטה."</string>
+    <string name="error_mediadb_incall">"אפשרות זו נתמכת, רק בזמן בשיחה"</string>
+    <string name="error_mediadb_aacincall">"הקלטת שיחה קולית AAC אינה נתמכת"</string>
+    <string name="file_saved">"הקובץ נשמר"</string>
+    <string name="file_save_error">"שגיאה נשמרה, הקובץ לא קיים!"</string>
+    <string name="file_deleted">"קובץ נמחק!"</string>
+    <string name="file_will_discard">"הקובץ יימחק, ברצונך להמשיך?"</string>
+    <string name="button_cancle">"בטל"</string>
+    <string name="recording_paused">"השהה"</string>
+</resources>
