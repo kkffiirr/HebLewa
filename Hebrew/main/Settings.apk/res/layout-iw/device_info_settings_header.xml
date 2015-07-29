@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/item_padding_side" android:paddingRight="@dimen/item_padding_side" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:gravity="center" android:orientation="vertical" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1" android:shrinkColumns="1">
+        <TableRow android:paddingTop="3.0dip">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/firmware_version" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/lewa_firmware_version" />
+        </TableRow>
+        <TableRow android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/device_lewa_version" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/device_lewa_version" />
+        </TableRow>
+        <TableRow android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/device_cpu" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/device_cpu" />
+        </TableRow>
+        <TableRow android:id="@id/rom_size_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/rom_size" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/rom_size_title" />
+        </TableRow>
+        <TableRow android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/device_system_memory" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/device_system_memory" />
+        </TableRow>
+        <TableRow android:id="@id/internal_memory_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/internal_memory_available" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/internal_memory_available" />
+        </TableRow>
+        <TableRow android:id="@id/screen_size_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/screen_size" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/screen_size" />
+        </TableRow>
+        <TableRow android:id="@id/screen_type_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/screen_type" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/screen_type" />
+        </TableRow>
+        <TableRow android:id="@id/lamination_process_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/lamination_process" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/lamination_process" />
+        </TableRow>
+        <TableRow android:id="@id/color_values_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/color_values" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/color_values" />
+        </TableRow>
+        <TableRow android:id="@id/screen_resolution_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/screen_resolution" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/screen_resolution" />
+        </TableRow>
+        <TableRow android:id="@id/gpu_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/gpu" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/gpu" />
+        </TableRow>
+        <TableRow android:id="@id/main_camera_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/main_camera" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/main_camera" />
+        </TableRow>
+        <TableRow android:id="@id/deputy_camera_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/deputy_camera" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/deputy_camera" />
+        </TableRow>
+        <TableRow android:id="@id/battery_capacity_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/battery_capacity" />
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:text="@string/battery_capacity" />
+        </TableRow>
+        <TableRow android:id="@id/sdcard_memory_id" android:paddingTop="3.0dip">
+            
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="right" android:id="@id/sdcard_available" />
+			<TextView android:textAppearance="?android:textAppearanceMedium"  android:text="@string/sdcard_available" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

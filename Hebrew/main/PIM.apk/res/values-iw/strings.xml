@@ -13,20 +13,6 @@
     <string name="abc_shareactionprovider_share_with_application">"שתף %s"</string>
     <string name="abc_shareactionprovider_share_with">"שתף עם"</string>
     <string name="selectNone">"ביטול"</string>
-    <string name="dialpad_0_number">"0"</string>
-    <string name="dialpad_1_number">"1"</string>
-    <string name="dialpad_2_number">"2"</string>
-    <string name="dialpad_3_number">"3"</string>
-    <string name="dialpad_4_number">"4"</string>
-    <string name="dialpad_5_number">"5"</string>
-    <string name="dialpad_6_number">"6"</string>
-    <string name="dialpad_7_number">"7"</string>
-    <string name="dialpad_8_number">"8"</string>
-    <string name="dialpad_9_number">"9"</string>
-    <string name="dialpad_star_number">"*"</string>
-    <string name="dialpad_pound_number">"\ #"</string>
-    <string name="dialpad_0_letters">"+"</string>
-    <string name="dialpad_1_letters">""</string>
     <string name="dialpad_2_letters">"דהו"</string>
     <string name="dialpad_3_letters">"אבג"</string>
     <string name="dialpad_4_letters">"מנ"</string>
@@ -35,13 +21,11 @@
     <string name="dialpad_7_letters">"רשת"</string>
     <string name="dialpad_8_letters">"צק"</string>
     <string name="dialpad_9_letters">"סעפ"</string>
-    <string name="dialpad_star_letters">""</string>
-    <string name="dialpad_pound_letters">""</string>
     <string name="description_dialpad_overflow">"אפשרויות נוספות"</string>
     <string name="description_delete_button">"מקש ארוך"</string>
     <string name="description_image_button_plus">"תוספת"</string>
     <string name="description_voicemail_button">"תא קולי"</string>
-    <string name="default_notification_description">"צליל ברירת מחדל %1$s"</string>
+    <string name="default_notification_description">צליל ברירת מחדל (%1$s)</string>
     <string name="callFailed_userBusy">"קו עסוק"</string>
     <string name="callFailed_congestion">"רשת עסוקה"</string>
     <string name="callFailed_timedOut">"אין תגובה, הזמן שהוקצב עבר"</string>
@@ -66,7 +50,6 @@
     <string name="callFailed_unobtainable_number">"מספר לא חוקי"</string>
     <string name="incall_error_missing_voicemail_number">"מספר לא ידוע שירות תא קולי."</string>
     <string name="to_hint">"ל"</string>
-    <string name="more_string">"%1$s"</string>
     <string name="copy_email">"העתקה של כתובת הדוא\"ל"</string>
     <string name="copy_number">"העתק מספר טלפון"</string>
     <string name="action_label">"חזור"</string>
@@ -94,15 +77,14 @@
     <string name="view_delivery_report">"צפה בדוח"</string>
     <string name="delete_message">"מחק"</string>
     <string name="expire_on">"בתוקף %s"</string>
-    <string name="kilobyte">"KB"</string>
     <string name="undelivered_msg_dialog_title">"הודעה שלא נמסרה"</string>
-    <string name="undelivered_msg_dialog_body">"לא יכולתי לשלוח הודעה זו. ניסיון %s"</string>
-    <string name="undelivered_sms_dialog_body">"לא יכולתי לשלוח הודעה זו."</string>
+    <string name="undelivered_msg_dialog_body">"שליחת ההודעה נכשלה.
+ניסיון: %s."</string>
+    <string name="undelivered_sms_dialog_body">"שליחת ההודעה נכשלה."</string>
     <string name="delete_thread">"מצב עריכה"</string>
     <string name="menu_forward">"העבר"</string>
     <string name="download">"הורדה"</string>
     <string name="downloading">"מוריד..."</string>
-    <string name="inline_subject">"%s"</string>
     <string name="drm_protected_text">"* טקסט מוגן DRM *"</string>
     <string name="insufficient_drm_rights">"זכויות DRM מספיקות מזוהות."</string>
     <string name="copy_message_text">"העתקה של טקסט"</string>
@@ -137,16 +119,15 @@
     <string name="type_to_compose_text_enter_to_send_quick_text">"הקלד טקסט מהיר"</string>
     <string name="open_keyboard_to_compose_message">"פתח מקלדת כדי להקיש הודעה"</string>
     <string name="compressing">"תמונה גדולה מדי. דחיסה ..."</string>
-    <string name="unsupported_media_format">"לא %1$s פורמט."</string>
-    <string name="select_different_media">"בחר שונה %1$s"</string>
+    <string name="unsupported_media_format">לא נתמך %1$s סוג קובץ.</string>
+    <string name="select_different_media">בחר אחר %1$s.</string>
     <string name="exceed_message_size_limitation">"ההודעה הגיעה למגבלת הגודל שלה"</string>
     <string name="message_too_big_for_video">"ההודעה היא גדולה מדי כדי לצרף וידאו."</string>
-    <string name="failed_to_add_media">"אתה לא יכול להוסיף את %1$s להודעה שלך."</string>
+    <string name="failed_to_add_media">"אינך יכול לצרף %1$s להודעתך."</string>
     <string name="failed_to_resize_image">"תמונה לא משתנה."</string>
     <string name="resize_image_error_information">"תמונה זו גדולה מדי לשליחה, גם לאחר שינוי גודל."</string>
-    <string name="forward_prefix">"Fwd: "</string>
-    <string name="discard_message_reason">"ההודעה שלך תימחק כי אין לו נמענים חוקיים."</string>
-    <string name="has_invalid_recipient">"נמען לא חוקי (ים): %1$s"</string>
+    <string name="discard_message_reason">הודעתך תמחק כי אינה מכילה נמענים תקינים.</string>
+    <string name="has_invalid_recipient">נמענים לא תקינים: &lt;%1$s></string>
     <string name="invalid_destination">"כתובת יעד לא חוקית."</string>
     <string name="service_not_activated">"שירות לא הופעל ברשת."</string>
     <string name="service_message_not_found">"הודעה פגה או לא זמינה."</string>
@@ -160,8 +141,8 @@
     <string name="cannot_add_picture_and_video">"לא ניתן להוסיף סרטון ותמונה לשקופית אחת."</string>
     <string name="cannot_save_message">"לא ניתן לשמור הודעה."</string>
     <string name="message_saved_as_draft">"הודעה נשמרה כטיוטה."</string>
-    <string name="too_many_recipients">"יש להודעה נמענים רבים מדי %1$s יש גבול %2$s למקבלים."</string>
-    <string name="too_many_attachments">"יש גבול של %1$s קבצים מצורפים. רק הראשון %2$s יתווסף."</string>
+    <string name="too_many_recipients">להודעה יש נמענים רבים מידי (%1$s). יש הגבלה של %2$s נמענים.</string>
+    <string name="too_many_attachments">יש הגבלה של %1$s צרופות, רק הראשון %2$s יצורף להודעה.</string>
     <string name="adding_attachments_title">"הוספת קבצים מצורפים"</string>
     <string name="adding_attachments">"המתן בעת ​​הוספת הפריטים למצגת."</string>
     <string name="building_slideshow_title">"בונה מצגת"</string>
@@ -301,7 +282,7 @@
     <string name="fdn_check_failure">"אתה יכול רק לשלוח הודעות למספרי החיוג הקבועים שלך."</string>
     <string name="no_subject">"(אין נושא)"</string>
     <string name="unknown_sender">"שולח לא ידוע"</string>
-    <string name="dl_failure_notification">"לא יכולתי להוריד %1$s %2$s"</string>
+    <string name="dl_failure_notification">"לא ניתן להוריד הודעה %1$s מתוך %2$s."</string>
     <string name="rate_limit_surpassed">"אשר"</string>
     <string name="confirm_rate_limit">"מספר רב של הודעות מולטימדיה שנשלח. האם זה בסדר?"</string>
     <string name="message_download_failed_title">"הודעה לא הורידה"</string>
@@ -318,7 +299,6 @@
     <string name="menu_insert_smiley">"הכנס סמיילי"</string>
     <string name="menu_group_participants">"משתתפי קבוצה"</string>
     <string name="select_link_title">"בחר פעולה"</string>
-    <string name="slide_number">"%s"</string>
     <string name="delivery_report_activity">"דוח מסירה"</string>
     <string name="storage_limits_activity">"מגבלות אחסון"</string>
     <string name="change_duration_activity">"משך שינוי"</string>
@@ -332,7 +312,7 @@
     <string name="search">"הודעות"</string>
     <string name="search_setting_description">"טקסט בהודעות שלך"</string>
     <string name="search_empty">"לא נמצא התאמות."</string>
-    <string name="search_history">"%1$s תוצאות עבור %2$s"</string>
+    <string name="search_history">"%1$s תוצאות עבור \"%2$s\"</string>
     <string name="confirm_clear_search_title">"נקה"</string>
     <string name="confirm_clear_search_text">"היסטורית חיפוש תימחק."</string>
     <string name="pref_mms_clear_search_history_title">"נקה היסטוריית חיפוש"</string>
@@ -347,19 +327,14 @@
     <string name="pick_too_many_recipients">"נמענים רבים מדי"</string>
     <string name="adding_recipients">"הוספת נמענים ..."</string>
     <string name="draft_separator">", "</string>
-    <string name="message_count_format">" %1$s"</string>
     <string name="message_count_notification">"%1$s הודעות חדשות"</string>
     <string name="error_state">"מצב לא עקבי"</string>
-    <string name="error_state_text">"המצב של אשכולות והמקבלים אינו עולה בקנה. אנא לצלם דיווח הבאג ולדווח על כך באמצעות http: // go / droidanizer"</string>
     <string name="disable_notifications_dialog_message">"עצור התרעות של הודעות טקסט כפולות מיישום הודעות ברירת מחדל?"</string>
     <string name="view_more_conversations">"הצג יותר שיחות"</string>
     <string name="attachment_audio">"שמע"</string>
     <string name="attachment_slideshow">"מצגת"</string>
     <string name="attachment_video">"סירטון"</string>
     <string name="attachment_picture">"תמונה"</string>
-    <string name="notification_separator">"  "</string>
-    <string name="enumeration_comma">", "</string>
-    <string name="message_timestamp_format">"%1$s %2$s"</string>
     <string name="message_empty_text">"ללא תוכן"</string>
     <string name="sms_recommend_message">"הודעה מומלצת"</string>
     <string name="message_early">"מוקדם"</string>
@@ -441,7 +416,6 @@
     <string name="no_messages">"אין הודעות"</string>
     <string name="set_service_center_OK">"הגדר מרכז שירות SMS כמאושר"</string>
     <string name="set_service_center_fail">"הגדר מרכז שירות SMS כמבוטל  "</string>
-    <string name="sms_import_sdcard">"%s SMS"</string>
     <string name="sms_export_sdcard">"יצוא %s"</string>
     <string name="sms_whether_export_item">"האם אתה רוצה יצוא %s"</string>
     <string name="export_message_ongoing">"יצוא SMS, אנא המתן ..."</string>
@@ -518,7 +492,6 @@
     <string name="pref_summary_notify_enable">"Folding notification and validation code message for an entry"</string>
     <string name="pref_title_notify_enable">"Folding display information"</string>
     <string name="menu_prompt_quick_position">"שם משפחה"</string>
-    <string name="page">"%d"</string>
     <string name="play_as_slideshow">"לנגן MMS כמצגת"</string>
     <string name="copy_to_phone">"העתקה הצליחה "</string>
     <string name="callto">"שיחה:"</string>
@@ -587,7 +560,6 @@
     <string name="searchHint">"חיפוש אנשי קשר"</string>
     <string name="menu_newContact">"איש קשר חדש"</string>
     <string name="menu_viewContact">"צפה באיש קשר"</string>
-    <string name="menu_callNumber">"%s"</string>
     <string name="menu_addStar">"הוסף למועדפים"</string>
     <string name="menu_removeStar">"הסר מהמועדפים"</string>
     <string name="menu_editContact">"עריכה"</string>
@@ -604,7 +576,7 @@
     <string name="splitConfirmation">"איש קשר זה יהיה מופרד למספר אנשי קשר."</string>
     <string name="menu_joinAggregate">"הצטרף"</string>
     <string name="titleJoinContactDataWith">"הצטרף לאנשי קשר"</string>
-    <string name="blurbJoinContactDataWith">"בחר את איש הקשר שברצונך להצטרף איתו %s"</string>
+    <string name="blurbJoinContactDataWith">"בחר את איש הקשר שברצונך לצרף אליו %s"</string>
     <string name="showAllContactsJoinItem">"הצג את כל אנשי הקשר"</string>
     <string name="separatorJoinAggregateSuggestions">"הצע אנשי קשר "</string>
     <string name="separatorJoinAggregateAll">"כל אנשי הקשר"</string>
@@ -656,7 +628,7 @@
     <string name="listAllContactsInAccount">"אנשי קשר ב %s"</string>
     <string name="listSingleContact">"איש קשר יחיד"</string>
     <string name="listCustomView">"אנשי קשר בתצוגה מותאמת אישית"</string>
-    <string name="foundTooManyContacts">"יותר %dמי מה שמצא."</string>
+    <string name="foundTooManyContacts">יותר מ %d נמצאו.</string>
     <string name="listFoundAllContactsZero">"לא נמצא."</string>
     <string name="contactsAllLabel">"כל אנשי הקשר"</string>
     <string name="contactsGroupsLabel">"קבוצות"</string>
@@ -665,7 +637,6 @@
     <string name="dialerIconLabel">"טלפון"</string>
     <string name="recentCallsIconLabel">"יומן שיחות"</string>
     <string name="menu_sendTextMessage">"שלח הודעת טקסט"</string>
-    <string name="recentCalls_callNumber">"%s"</string>
     <string name="recentCalls_editNumberBeforeCall">"ערוך מספר לפני השיחה"</string>
     <string name="recentCalls_addToContact">"הוסף לאנשי קשר"</string>
     <string name="recentCalls_removeFromRecentList">"הסר מיומן שיחות"</string>
@@ -746,7 +717,7 @@
     <string name="import_multiple_vcard_string">"יבוא קבצי vCard מרובים "</string>
     <string name="import_all_vcard_string">"לייבא את כל קבצי vCard"</string>
     <string name="searching_vcard_message">"מחפש נתוני vCard באחסון ..."</string>
-    <string name="scanning_sdcard_failed_message">"האחסון לא ניתן לסריקה. (סיבה: \ %s \\")"</string>
+    <string name="scanning_sdcard_failed_message">"לא ניתן לסרוק את האחסון (סיבה: \"%s\")"</string>
     <string name="fail_reason_io_error">"שגיאת קלט / פלט"</string>
     <string name="fail_reason_low_memory_during_import">"אין מספיק זיכרון. הקובץ עשוי להיות גדול מדי."</string>
     <string name="fail_reason_vcard_parse_error">"לא ניתן לנתח vCard מסיבה בלתי צפויה."</string>
@@ -759,7 +730,6 @@
     <string name="select_vcard_title">"בחר קובץ vCard"</string>
     <string name="caching_vcard_title">"מטמון"</string>
     <string name="caching_vcard_message">"vCard מטמון (ים) לאחסון זמני מקומי. היבוא בפועל יתחיל בקרוב."</string>
-    <string formatted="false" name="progress_notifier_message">"%s %s %s"</string>
     <string name="importing_vcard_description">"%s"</string>
     <string name="reading_vcard_failed_title">"לא ניתן לקרוא נתוני vCard"</string>
     <string name="reading_vcard_canceled_title">"נתוני vCard הקריאה בוטלו"</string>
@@ -771,25 +741,25 @@
     <string name="vcard_export_will_start_message">"%s תיוצא תוך זמן קצר."</string>
     <string name="vcard_export_request_rejected_message">"בקשת יצוא vCard נדחתה. נסה שוב מאוחר יותר."</string>
     <string name="vcard_unknown_filename">"איש קשר"</string>
-    <string name="percentage">"%s %%"</string>
     <string name="confirm_export_title">"יצוא אנשי קשר?"</string>
     <string name="confirm_export_message">"רשימת אנשי הקשר שלך תיוצא %s"</string>
     <string name="exporting_contact_failed_title">"לא יכולתי לייצא"</string>
-    <string name="exporting_contact_failed_message">"נתוני אנשי הקשר לא ייצא. סיבה: \ %s \\""</string>
+    <string name="exporting_contact_failed_message">"איש הקשר לא יוצא.
+Reason: \"%s\""</string>
     <string name="fail_reason_no_exportable_contact">"אין קשר ליצוא."</string>
     <string name="fail_reason_too_many_vcard">"קובצי vCard רבים מדי נמצאים באחסון."</string>
     <string name="fail_reason_too_long_filename">"שם קובץ דרוש ארוך מדי %s"</string>
     <string name="exporting_vcard_finished_title">"ייצוא הסתיים %s"</string>
-    <string name="exporting_vcard_canceled_title">"%sיייצוא בוטל."</string>
+    <string name="exporting_vcard_canceled_title">"ייצוא %s בוטל"</string>
     <string name="exporting_contact_list_title">"יצוא נתונים של אנשי קשר"</string>
     <string name="exporting_contact_list_message">"נתוני איש הקשר שלך מיוצאים ל %s"</string>
-    <string name="fail_reason_could_not_initialize_exporter">"לא יכולתי להתחיל את היצואן: \ %s \\"."</string>
+    <string name="fail_reason_could_not_initialize_exporter">"אי אפשר להתחיל בתהליך הייצוא: \"%s\"</string>
     <string name="fail_reason_error_occurred_during_export">"אירעה שגיאה במהלך יצוא: %s"</string>
     <string name="composer_failed_to_get_database_infomation">"לא ניתן לקבל מידע באתר."</string>
-    <string name="composer_has_no_exportable_contact">"There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone."</string>
+    <string name="composer_has_no_exportable_contact">"אין אנשי קשר שניתן לייצא על המכשיר, אם אכן יש לך אנשי קשר על המכשיר, יתכן וספק השירות לא מאפשר לייצא אותו"</string>
     <string name="composer_not_initialized">"vCard לא התחיל כמו שצריך."</string>
-    <string formatted="false" name="fail_reason_could_not_open_file">"לא ניתן לפתוח \ %s %s"</string>
-    <string formatted="false" name="exporting_contact_list_progress">"%s of %s contacts"</string>
+    <string formatted="false" name="fail_reason_could_not_open_file">"לא ניתן לפתוח \"%s\": %s."</string>
+    <string formatted="false" name="exporting_contact_list_progress">"%s מתוך %s אנשי קשר"</string>
     <string name="cancel_import_confirmation_message">"לבטל יבוא? %s"</string>
     <string name="cancel_export_confirmation_message">"לבטל יצוא? %s"</string>
     <string name="cancel_vcard_import_or_export_failed">"לא יכולתי לבטל יבוא / יצוא vCard"</string>
@@ -800,7 +770,7 @@
     <string name="call_settings">"הגדרות"</string>
     <string name="sms_disambig_title">"בחר מספר"</string>
     <string name="make_primary">"זכור בחירה זו"</string>
-    <string name="quickcontact_missing_app">"אין יישום נמצא לטפל בפעולה זו."</string>
+    <string name="quickcontact_missing_app">"לא נמצא יישום שיכול לטפל בפעולה זו."</string>
     <string name="missing_name">"(אין שם)"</string>
     <string name="menu_accounts">"חשבונות"</string>
     <string name="menu_clear_frequents">"Clear frequents"</string>
@@ -827,7 +797,6 @@
     <string name="display_all_contacts">"כל אנשי הקשר"</string>
     <string name="display_warn_remove_ungrouped">"הסרה %s מסנכרון תסיר גם את כל אנשי קשר שלא מקבוצת סנכרון."</string>
     <string name="account_phone">"טלפון בלבד, לא מסונכרן"</string>
-    <string name="call_custom">"%s"</string>
     <string name="call_home">"שיחה הביתה "</string>
     <string name="call_mobile">"שיחה לנייד "</string>
     <string name="call_work">"שיחה לעבודה "</string>
@@ -846,7 +815,6 @@
     <string name="call_tty_tdd">"התקשר TTY / TDD"</string>
     <string name="call_work_mobile">"שיחת נייד של העבודה"</string>
     <string name="call_work_pager">"שיחת ביפר של העבודה"</string>
-    <string name="call_assistant">"%s"</string>
     <string name="call_mms">"שיחת MMS"</string>
     <string name="sms_custom">"טקסט %s"</string>
     <string name="sms_home">"הודעת טקסט לבית"</string>
@@ -913,8 +881,7 @@
     <string name="add_connection_button">"הוסף חיבור"</string>
     <string name="recent">"אחרון"</string>
     <string name="recent_updates">"עדכונים אחרונים"</string>
-    <string name="account_type_format">"%1$sאיש קשר"</string>
-    <string name="from_account_format">"%1$s"</string>
+    <string name="account_type_format">%1$s איש קשר</string>
     <string name="use_photo_as_primary">"השתמש בתמונה זו"</string>
     <string name="contact_read_only">"לא ניתן לעריכה מיישום זה."</string>
     <string name="no_contact_details">"אין מידע נוסף עבור איש קשר זה."</string>
@@ -923,8 +890,8 @@
     <string name="display_options_sort_by_given_name">"שם פרטי"</string>
     <string name="display_options_sort_by_family_name">"שם משפחה"</string>
     <string name="display_options_view_names_as">"צפה בשמות אנשי קשר כ"</string>
-    <string name="display_options_view_given_name_first">"שם שניתן ראשון"</string>
-    <string name="display_options_view_family_name_first">"שם משפחה ראשונה"</string>
+    <string name="display_options_view_given_name_first">"מיין לפי שם פרטי"</string>
+    <string name="display_options_view_family_name_first">"מיין לפי שם משפחה"</string>
     <string name="take_photo">"צלם"</string>
     <string name="take_new_photo">"קח תמונה חדשה"</string>
     <string name="pick_photo">"בחר בצילום מגלריה"</string>
@@ -945,8 +912,6 @@
     <string name="add_organization">"הוסף ארגון"</string>
     <string name="event_edit_field_hint_text">"תאריך"</string>
     <string name="group_edit_field_hint_text">"שם קבוצה"</string>
-    <string name="contact_status_update_attribution">"%1$s"</string>
-    <string name="contact_status_update_attribution_with_date">"%1$s %2$s"</string>
     <string name="description_star">"מועדפים"</string>
     <string name="edit_contact">"ערוך איש קשר"</string>
     <string name="local_invisible_directory">"אחר"</string>

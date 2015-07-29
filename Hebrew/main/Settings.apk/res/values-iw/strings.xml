@@ -2445,6 +2445,7 @@ Wi‑Fi Assistant"</string>
 	<string name="bird_hand_title">Aerial view of the left and right hand mode</string>
 	<string name="latter_settings_title">מחוות אותיות</string>
 	<string name="firmware_version">גרסת אנדרואיד</string>
+	<string name="lewa_firmware_version">גרסת אנדרואיד</string>
 	<string name="device_lewa_version">"גרסת תוכנה: "</string>
     <string name="device_cpu">"מעבד: "</string>
 	<string name="device_system_memory">"זיכרון המערכת: "</string>
