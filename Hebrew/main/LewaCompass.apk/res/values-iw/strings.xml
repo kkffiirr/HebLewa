@@ -1,0 +1,33 @@
+<resources>
+    <string name="abc_action_mode_done">"בוצע"</string>
+    <string name="abc_action_bar_home_description">"נווט לבית"</string>
+    <string name="abc_action_bar_up_description">"נווט למעלה"</string>
+    <string name="abc_action_menu_overflow_description">"אפשרויות נוספות"</string>
+    <string name="abc_searchview_description_search">"חיפוש"</string>
+    <string name="abc_searchview_description_query">"חפש שאילתא"</string>
+    <string name="abc_searchview_description_clear">"נקה שאילתא"</string>
+    <string name="abc_searchview_description_submit">"שלח שאילתא"</string>
+    <string name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string name="abc_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string name="abc_activity_chooser_view_see_all">"ראה הכל"</string>
+    <string name="abc_shareactionprovider_share_with_application">"שתף %s"</string>
+    <string name="abc_shareactionprovider_share_with">"שתף עם"</string>
+    <string name="selectNone">"ביטול"</string>
+    <string name="app_name">"מצפן"</string>
+    <string name="north">"צפון"</string>
+    <string name="northeast">"צפון מזרח"</string>
+    <string name="east">"מזרח"</string>
+    <string name="southeast">"דרום מזרח"</string>
+    <string name="south">"דרום"</string>
+    <string name="southwest">"דרום מערב"</string>
+    <string name="west">"מערב"</string>
+    <string name="northwest">"צפון מערב"</string>
+    <string name="accuracy_prompt">"הפרעות מגנטיות קרובות,הטלפון רועד מסביב יש לכייל את המצפן"</string>
+    <string name="adjust">"התאם"</string>
+    <string name="adjust_firstIn">"First use of calibration compasses 
+ please according to the above diagram around eight shake mobile phone calibration compasses"</string>
+    <string name="adjust_tv">"Nearby there may be magnetic interference, follow the above schematic shaking the phone around 8 characters calibrate the compass."</string>
+    <string name="adjust_success">"הותאם הצלחה."</string>
+    <string name="adjust_value">"ערך הדיוק הנוכחי:"</string>
+    <string name="adjust_compass">"התאם מצפן"</string>
+</resources>

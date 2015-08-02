@@ -502,4 +502,14 @@
         <item>בקובץ שמור (לקוח פעילות)</item>
         <item>בקובץ שמור (ריק)</item>
     </string-array>
+	<string-array name="shake_entries">
+		<item>עדין</item>
+		<item>רגיל</item>
+		<item>חזק</item>
+	</string-array>
+	  <string-array name="bird_hand_entries">
+      <item>שמאל</item>
+      <item>ימין</item>
+      <item>מתחלף</item>
+	</string-array>
 </resources>

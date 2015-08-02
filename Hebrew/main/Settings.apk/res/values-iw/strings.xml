@@ -2423,7 +2423,7 @@ Wi‑Fi Assistant"</string>
 	<string name="sensor_settings">חישה חכמה</string>
     <string name="sensor_call_setting">בעת שיחה נכנסת</string>
     <string name="sensor_other_setting">הגדרות כלליות</string>
-    <string name="sensor_smart_answer">מענה חכם</string>
+    <string name="sensor_smart_answer">מענה חכם</string>	
     <string name="sensor_smart_answer_summary">מענה בעת קירוב המכשיר לאוזן</string>
     <string name="sensor_turn_slient">הפוך המכשיר על מנת להשתיק</string>
     <string name="sensor_turn_slient_summary">השתקת המכשיר בעת צלצול משיחה נכנסת תגרום להשתקתו</string>
@@ -2444,20 +2444,9 @@ Wi‑Fi Assistant"</string>
     <string name="sensor_shake_cancel">ביטול</string>
 	<string name="bird_hand_title">Aerial view of the left and right hand mode</string>
 	<string name="latter_settings_title">מחוות אותיות</string>
-	<string name="firmware_version">גרסת אנדרואיד</string>
-	<string name="lewa_firmware_version">גרסת אנדרואיד</string>
-	<string name="device_lewa_version">"גרסת תוכנה: "</string>
-    <string name="device_cpu">"מעבד: "</string>
-	<string name="device_system_memory">"זיכרון המערכת: "</string>
-    <string name="internal_memory_available">"אחסון פנימי: "</string>
-	<string name="screen_size">"גודל מסך: "</string>
-    <string name="screen_type">"סוג מסך: "</string>
-    <string name="lamination_process">"מצב תאורה: "</string>
-    <string name="color_values">"ערכי צבע: "</string>
-    <string name="screen_resolution">"רזולוציית מסך: "</string>
-    <string name="gpu">"מעבד גרפי: "</string>
-    <string name="main_camera">"מצלמה ראשית: "</string>
-    <string name="deputy_camera">"מצלמה קדמית: "</string>
-    <string name="battery_capacity">"קיבולת סוללה:"</string>
-    <string name="device_cpu_string">Qualcomm Xiaolong 64 615 אחלה מעבד שבעולם</string>
+    <string name="click_gesture">הקש פעמיים כדי להעיר</string>
+    <string name="gestures_settings_title">Gesture</string>
+    <string name="click_gesture_summary">כשהמסך כבוי, הדלק את המסך באמצעות שתי נקישות עליו.</string>
+    <string name="inadvertmode_title">מנע הפעלה בטעות</string>
+    <string name="inadvertmode_msg">מנע פעולות בטעות בעת שהמכשיר בכיס.</string>	
 </resources>
