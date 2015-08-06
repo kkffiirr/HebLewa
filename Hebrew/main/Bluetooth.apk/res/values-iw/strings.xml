@@ -126,7 +126,7 @@
     <string name="localPhoneName">"השם שלי"</string>
     <string name="defaultnumber">"000000"</string>
     <string name="hello">"שלום שלום, ואין שלום"</string>
-    <string name="app_name">"Bluetooth שתף"</string>
+    <string name="app_name">"שיתוף בלוטוס"</string>
     <string name="insert_record">"הוסף רשומה"</string>
     <string name="update_record">"עדכן רשומה"</string>
     <string name="ack_record">"אשר רשומה"</string>
