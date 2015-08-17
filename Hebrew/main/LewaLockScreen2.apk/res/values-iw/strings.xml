@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מסך נעילה</string>
+    <string name="hello_world">שלום!</string>
+    <string name="default_time">00:00</string>
+    <string name="default_data">01.01 יום ראשון</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="lockscreen_bbs">הערות</string>
+    <string name="lockscreen_settings">הגדרות</string>
+    <string name="lockscreen_settings_title">הגדרות נעילה</string>
+    <string name="shortcut_manager">ניהול קיצורי דרך</string>
+    <string name="wallpaper_rotation">זמן בין החלפות רקעים</string>
+    <string name="auto_update">עדכון אוטומטי</string>
+    <string name="shortcut_manager_summary">הגדר קיצור דרך לאפליקציה</string>
+    <string name="wallpaper_rotation_summary">מסך דולק</string>
+    <string name="auto_update_summary">רשת אלחוטית בלבד</string>
+    <string name="check_app_num_toast">רק %1$d אפליקציות מותרות</string>
+    <string name="apply">החל</string>
+    <string name="add">הוסף</string>
+    <string name="checked_prompt">%1$d יישומון לא זמין</string>
+    <string name="appmanager_title">ניהול מסך נעילה</string>
+    <string name="network_toast_prompt">חיבור לרשת נכשל, אנא נסה שוב מאוחר יותר</string>
+    <string name="toast_update_lastest">ערכת נושא מעודכנת לגרסה האחרונה.</string>
+    <string name="toast_update_success">עודכן בהצלחה,%1$d רקעים עודכנו</string>
+    <string name="toast_update_success2">העדכון הצליח,%1$d רקעים עודכנו בסך הכל</string>
+    <string name="toast_update_fail">העדכון נכשל, אנא נסה שוב מאוחר יותר</string>
+    <string name="time_1900">1900年1月31日</string>
+    <string name="month">חודש</string>
+</resources>
