@@ -159,4 +159,16 @@
     <string name="no_alarms">ללא התראות</string>
     <string name="no_alarms_set">לא הוגדרו התראות</string>
     <string name="no_upcoming_alarms">אין התראות קרובות</string>
+	<string name="world_clock">שעון עולמי</string>
+    <string name="current_time">שעה נוכחית:</string>
+    <string name="stop_watch">שעון עצר</string>
+    <string name="start">התחל</string>
+    <string name="pause">עצור</string>
+    <string name="reset">איפוס</string>
+    <string name="timer_ring">תזכורת</string>
+    <string name="alarm_alert_snooze_set">נודניק כל %d דקות.</string>
+    <string name="turn_snooze">הפעל נודניק</string>	
+    <string name="modify_alarm">שינוי התראות</string>
+    <string name="add_city">הוסף עיר</string>
+	
 </resources>
