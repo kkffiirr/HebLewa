@@ -23,7 +23,7 @@
             </LinearLayout>
             <ImageView android:id="@id/mobile_signal" android:layout_width="wrap_content" android:layout_height="wrap_content" />
             <RelativeLayout android:orientation="vertical" android:id="@id/mobile_combo_type" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/mobile_signal" android:layout_alignBottom="@id/mobile_signal">
-                <ImageView android:id="@id/mobile_slot_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/lewa_sim_indicator_1" />
+
 		<ImageView android:id="@id/mobile_type" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
                 <ImageView android:id="@id/mobile_inout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/mobile_inout" />
             </RelativeLayout>
