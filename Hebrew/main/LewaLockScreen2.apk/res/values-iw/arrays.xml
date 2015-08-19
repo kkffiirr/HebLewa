@@ -11,12 +11,12 @@
         <item>תמיד (נחוצה תקשורת נתונים)</item>
     </string-array>
     <string-array name="week">
-        <item>ראשון</item>
-        <item>שני</item>
-        <item>שלישי</item>
-        <item>רביעי</item>
-        <item>חמישי</item>
-        <item>שישי</item>
+        <item>יום ראשון</item>
+        <item>יום שני</item>
+        <item>יום שלישי</item>
+        <item>יום רביעי</item>
+        <item>יום חמישי</item>
+        <item>יום שישי</item>
         <item>שבת</item>
     </string-array>
 </resources>
