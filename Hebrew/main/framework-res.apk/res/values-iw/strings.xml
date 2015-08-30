@@ -1573,4 +1573,6 @@
 תכונת 'חיסכון בסוללה' מופסקת אוטומטית כשהמכשיר מחובר לחשמל."</string>
     <string name="downtime_condition_summary">עד לסיום ההשבתה בשעה %1$s</string>
     <string name="zen_mode_forever">ללא הגבלה</string>
+	<string name="reboot_title">אתחול</string>
+    <string name="reboot_confirm">המכשיר שלך יופעל מחדש.</string>
 </resources>
