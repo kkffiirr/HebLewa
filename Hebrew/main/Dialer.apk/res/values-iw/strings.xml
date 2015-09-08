@@ -577,4 +577,7 @@
     <string name="call_settings_label">הגדרות שיחה</string>
     <string name="call_settings_description">דואר קולי, שיחה ממתינה ואחרים</string>
     <string name="import_from_sim">‏יבא מכרטיס SIM</string>
+    <string name="strange_number">מספר לא מוכר</string>
+    <string name="unknow_number">מספר לא מזוהה</string>
+
 </resources>
