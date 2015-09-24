@@ -78,7 +78,6 @@
     <string name="enabling_progress_content">"מפעיל בלוטוס..."</string>
     <string name="bt_toast_1">הקובץ מתקבל, בדוק התקדמות בפאנל ההתראות.</string>
     <string name="bt_toast_2">"לא ניתן לקבל את הקובץ."</string>
-    <string name="bt_toast_2">"אי אפשר לקבל את הקובץ."</string>
     <string name="bt_toast_3">הוספקה קבלת הקובץ מ \"%1$s\"</string>
     <string name="bt_toast_4">שולח קובץ אל \"%1$s\"</string>
     <string name="bt_toast_5">שולח %1$s קבצים אל \"%2$s\"</string>
